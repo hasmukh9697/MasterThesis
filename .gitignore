@@ -1,0 +1,8 @@
+# all research papers, notes, and related materials should be ignored by git. This includes any files or folders that contain research papers, notes, or related materials.
+/Literature
+
+# Latex file 
+/MA_Hasmukh_Tex
+
+# Realtime data
+/Testbench_data
