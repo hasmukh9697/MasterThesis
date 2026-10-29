@@ -4,7 +4,7 @@
 
 **Author:** Hasmukhkumar Mukeshbhai Dhaduk  
 **Institution:** Deggendorf Institute of Technology (Technische Hochschule Deggendorf)  
-**Industrial research context:** Kermi GmbH, R&D  
+**Industrial research context:** Kermi GmbH, R&D Battery Reserach  
 **Tools:** MATLAB, Simulink
 
 ## Overview
