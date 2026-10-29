@@ -160,7 +160,7 @@ The methods explored here are relevant to battery monitoring, model-based SoC es
 
 ## Acknowledgements
 
-This work was carried out in the context of a master's thesis at Deggendorf Institute of Technology with industrial research involvement at Kermi GmbH. Experimental data contributions from the ISES Energy Storage Lab are gratefully acknowledged.
+This work was carried out in the context of a master's thesis at Deggendorf Institute of Technology with industrial research involvement at Kermi GmbH. Experimental data contributions from the ISES Energy Storage Lab at Hochschule München are gratefully acknowledged.
 
 ## Citation and use
 
